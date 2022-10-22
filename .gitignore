@@ -1,8 +1,6 @@
 .DS_Store
 Thumbs.db
 .idea
+.vscode
 *.sublime*
 *.log*
-node_modules/
-build/
-
